@@ -1,0 +1,113 @@
+.navbar
+{
+    padding:3%;
+    font-family: 'Goudy Bookletter 1911', serif;
+    font-weight:bolder;
+
+}
+#navbarText
+{
+    margin-left: 50%;
+}
+.home{
+    padding:3%;
+    font-family: 'Goudy Bookletter 1911', serif;
+    font-size: 20px;
+    font-weight:bolder;
+
+}
+
+
+.foot{
+    padding: 1%;
+    background-color:rgb(228, 228, 169);
+    position:fixed;
+    bottom: 0;
+    left:0;
+    right:0;
+    text-align: center;
+}
+.composeBody
+{
+    padding:3%;
+    font-family: 'Goudy Bookletter 1911', serif;
+    font-size: 20px;
+    font-weight:bolder;
+    color:rgb(145, 131, 13);
+}
+.btn
+{
+    margin-top:2%;
+}
+.post
+{
+    padding:3%;
+    font-family: 'Goudy Bookletter 1911', serif;
+    font-size: 20px;
+    font-weight:bolder;
+}
+
+/* .para
+{
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+      
+} */
+.about-para1
+{
+    color:rgb(145, 131, 13);
+    font-family: 'Dancing Script', cursive;
+    font-weight:bolder;
+    font-size: 70px;
+    padding:30px 250px;
+    text-align:center;
+}
+.about-para2
+{
+    color:rgb(41, 40, 28);
+    font-family: 'Goudy Bookletter 1911', serif;
+    font-weight:bolder;
+    font-size: 20px;
+    padding:0px 300px;
+    text-align:center;
+}
+
+.contact-title
+{
+    color:rgb(145, 131, 13);
+    text-align: center;
+    
+}
+.contact-title-heading
+{
+    font-family: 'Goudy Bookletter 1911', serif;
+    font-size: 40px;
+    font-weight:bolder;
+}
+.contact-title-para
+{
+    font-family: 'Goudy Bookletter 1911', serif;
+    font-size: 20px;
+    font-weight:bolder;
+}
+.form
+{
+    color:rgb(145, 131, 13);
+    padding: 3% 20%;
+    font-family: 'Goudy Bookletter 1911', serif;
+    font-size: 20px;
+    font-weight:bolder;    
+
+}
+#msg-btn
+{
+    padding:1% 43.35%;
+}
+.heading{
+    color:rgb(145, 131, 13);
+    font-family: 'Dancing Script', cursive;
+    font-weight:bolder;
+    font-size: 50px;
+    text-align:center;
+}
